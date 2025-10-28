@@ -1,0 +1,35 @@
+dataset,feature,type,missing_n,missing_pct,unique_n,num_min,num_max,num_mean,num_sd,date_min,date_max,top_levels
+test_raw,adwordsClickInfo.isVideoAd,logical,67667,97.12,1,NA,NA,NA,NA,NA,NA,NA
+test_raw,adwordsClickInfo.page,integer,67667,97.12,4,1,4,1.0054862842892769,0.09721586079046216,NA,NA,NA
+test_raw,bounces,integer,40357,57.92,1,1,1,1,0,NA,NA,NA
+test_raw,newVisits,integer,23485,33.71,1,1,1,1,0,NA,NA,NA
+test_raw,pageviews,integer,11,0.02,154,1,466,6.204619514505964,11.380338602621215,NA,NA,NA
+test_raw,adContent,character,0,0,25,NA,NA,NA,NA,NA,NA, (68678); Google Merchandise Collection (441); Full auto ad IMAGE ONLY (206); Google Online Store (81); Display Ad created 3/11/14 (70)
+test_raw,adwordsClickInfo.adNetworkType,character,0,0,2,NA,NA,NA,NA,NA,NA, (67667); Google Search (2005)
+test_raw,adwordsClickInfo.gclId,character,0,0,1454,NA,NA,NA,NA,NA,NA, (67663); Cj0KEQjwmIrJBRCRmJ_x7KDo-9oBEiQAuUPKMufMpuG3ZdwYO8GTsjiBFd5MPHStZa9y_9NCrI8X97oaAglc8P8HAQ (70); Cj0KEQjw1ee_BRD3hK6x993YzeoBEiQA5RH_BEA562M9tvl_mtnAFvtDnDqOQRp1RvxMMgwjcX1LAfwaAj4o8P8HAQ (41); CjwKEAiAxKrFBRDm25f60OegtwwSJABgEC-Z0_DLPcXHm1ZTqlR1YWeWXU875yaqwupt7pGMgFEZThoCeEzw_wcB (21); Cj0KEQjw6am-BRCTk4WZhLfd4-oBEiQA3ydA3saxe9n7sv9tA-h5ZD25Nw1Va4ugcmg3smdjc4V0chkaAgKx8P8HAQ (9)
+test_raw,adwordsClickInfo.slot,character,0,0,3,NA,NA,NA,NA,NA,NA, (67667); Top (1972); RHS (33)
+test_raw,browser,character,0,0,25,NA,NA,NA,NA,NA,NA,Chrome (51280); Safari (12020); Firefox (2392); Internet Explorer (1257); Edge (633)
+test_raw,campaign,character,0,0,8,NA,NA,NA,NA,NA,NA, (66650); AW - Dynamic Search Ads Whole Site (1416); Data Share Promo (992); AW - Accessories (577); test-liyuhz (24)
+test_raw,channelGrouping,character,0,0,8,NA,NA,NA,NA,NA,NA,Organic Search (27372); Social (13913); Referral (12981); Direct (11305); Paid Search (2417)
+test_raw,city,character,0,0,463,NA,NA,NA,NA,NA,NA, (38759); Mountain View (4208); New York (3502); San Francisco (2132); Sunnyvale (1470)
+test_raw,continent,character,0,0,6,NA,NA,NA,NA,NA,NA,Americas (42399); Asia (13573); Europe (11770); Africa (952); Oceania (887)
+test_raw,country,character,0,0,182,NA,NA,NA,NA,NA,NA,United States (36867); India (3189); United Kingdom (2118); Canada (1750); Vietnam (1498)
+test_raw,custId,integer,0,0,47247,1794,96289,49241.707041566195,27211.953649559047,NA,NA,NA
+test_raw,date,date,0,0,366,NA,NA,NA,NA,2016-08-01,2017-08-01,NA
+test_raw,deviceCategory,character,0,0,3,NA,NA,NA,NA,NA,NA,desktop (53819); mobile (13887); tablet (1966)
+test_raw,isMobile,integer,0,0,2,0,1,0.22748019290389251,0.4192081548181203,NA,NA,NA
+test_raw,isTrueDirect,integer,0,0,2,0,1,0.3941325066023654,0.48866706586994,NA,NA,NA
+test_raw,keyword,character,0,0,375,NA,NA,NA,NA,NA,NA, (66744); 6qEhsCssdK0z36ri (1090); (Remarketing/Content targeting) (319); 1hZbAqLCbjwfgOH7 (216); google merchandise store (192)
+test_raw,medium,character,0,0,6,NA,NA,NA,NA,NA,NA,organic (27372); referral (26894);  (11319); cpc (2417); affiliate (992)
+test_raw,metro,character,0,0,78,NA,NA,NA,NA,NA,NA, (49030); San Francisco-Oakland-San Jose CA (9903); New York NY (3544); Los Angeles CA (1012); Chicago IL (980)
+test_raw,networkDomain,character,0,0,4953,NA,NA,NA,NA,NA,NA, (32898); comcast.net (2893); rr.com (1588); verizon.net (1399); comcastbusiness.net (1148)
+test_raw,operatingSystem,character,0,0,14,NA,NA,NA,NA,NA,NA,Windows (24398); Macintosh (23747); Android (8226); iOS (7185); Linux (3046)
+test_raw,referralPath,character,0,0,440,NA,NA,NA,NA,NA,NA, (42778); / (10978); /yt/about/ (4429); /yt/about/tr/ (913); /analytics/web/ (879)
+test_raw,region,character,0,0,309,NA,NA,NA,NA,NA,NA, (38444); California (11062); New York (3505); Illinois (980); Texas (899)
+test_raw,sessionId,numeric,0,0,69672,4.9406619e-316,4.6687227270373e-311,2.3442776090955e-311,2721195364943.792,NA,NA,NA
+test_raw,source,character,0,0,134,NA,NA,NA,NA,NA,NA,google (29449); youtube.com (12978); (direct) (11305); mall.googleplex.com (10381); Partners (992)
+test_raw,subContinent,character,0,0,23,NA,NA,NA,NA,NA,NA,Northern America (38620); Southeast Asia (4731); Southern Asia (3689); Western Europe (3407); Northern Europe (3364)
+test_raw,timeSinceLastVisit,integer,0,0,20653,0,29049110,252796.0897491101,1163115.6687287518,NA,NA,NA
+test_raw,topLevelDomain,character,0,0,179,NA,NA,NA,NA,NA,NA, (32898); net (14679); com (6560); in (924); br (909)
+test_raw,visitNumber,integer,0,0,284,1,284,3.7959151452520383,14.247282045297764,NA,NA,NA
+test_raw,visitStartTime,integer,0,0,69576,1470035429,1501656981,1485066062.2845333,9051803.74356247,NA,NA,NA
